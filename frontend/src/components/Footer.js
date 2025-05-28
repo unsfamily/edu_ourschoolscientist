@@ -18,7 +18,7 @@ const Footer = () => {
             <Link to="/termsandconditions" className="text-white mb-2 mr-4">
               <i className="fa fa-angle-right mr-2"></i>Terms & Condition
             </Link>
-            <Link to="/termsandconditions" className="text-white mb-2 mr-4">
+            <Link to="/contact" className="text-white mb-2 mr-4">
               <i className="fa fa-angle-right mr-4"></i>Contact
             </Link>
 
