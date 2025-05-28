@@ -18,15 +18,16 @@ const Footer = () => {
             <Link to="/termsandconditions" className="text-white mb-2 mr-4">
               <i className="fa fa-angle-right mr-2"></i>Terms & Condition
             </Link>
-            <a className="text-white mb-2 mr-4" href="#">
+            <Link to="/termsandconditions" className="text-white mb-2 mr-4">
+              <i className="fa fa-angle-right mr-4"></i>Contact
+            </Link>
+
+            {/* <a className="text-white mb-2 mr-4" href="#">
               <i className="fa fa-angle-right mr-2"></i>Regular FAQs
             </a>
             <a className="text-white mb-2 mr-4" href="#">
               <i className="fa fa-angle-right mr-2"></i>Help & Support
-            </a>
-            <a className="text-white mr-4" href="#">
-              <i className="fa fa-angle-right mr-2"></i>Contact
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
